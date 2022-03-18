@@ -1,0 +1,58 @@
+2022-03-17 15:17:02  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:18:59  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:18:59  [ main:95 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:18:59  [ main:120 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [cigma.pfe.contollers.ClientController] for bean with name 'controller' defined in class path resource [spring.xml]; nested exception is java.lang.ClassNotFoundException: cigma.pfe.contollers.ClientController
+2022-03-17 15:19:50  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:19:50  [ main:82 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:20:08  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dcf3e99
+2022-03-17 15:20:09  [ main:107 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:22:44  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:22:44  [ main:78 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:23:21  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:23:21  [ main:80 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:25:16  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dcf3e99
+2022-03-17 15:25:16  [ main:91 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:25:57  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:25:57  [ main:81 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:26:01  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@dcf3e99
+2022-03-17 15:26:01  [ main:93 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:26:05  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f2b958e
+2022-03-17 15:26:06  [ main:83 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:28:04  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:28:04  [ main:81 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:28:44  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:28:44  [ main:78 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:29:24  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:29:24  [ main:82 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:30:18  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:30:18  [ main:80 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:39:22  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:39:22  [ main:85 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:39:27  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:39:27  [ main:81 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:41:52  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:41:52  [ main:78 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 15:42:00  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 15:42:00  [ main:82 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 16:50:13  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 16:50:13  [ main:177 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 17:36:26  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:36:26  [ main:86 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 17:41:26  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:41:26  [ main:83 ] - [ DEBUG ]  Loaded 1 bean definitions from class path resource [spring.xml]
+2022-03-17 17:47:07  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:47:07  [ main:83 ] - [ DEBUG ]  Loaded 2 bean definitions from class path resource [spring.xml]
+2022-03-17 17:49:48  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:49:48  [ main:83 ] - [ DEBUG ]  Loaded 2 bean definitions from class path resource [spring.xml]
+2022-03-17 17:54:24  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:54:24  [ main:81 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-17 17:55:00  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:55:00  [ main:79 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-17 17:57:24  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:57:24  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-17 17:58:03  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:58:03  [ main:87 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-17 17:59:58  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 17:59:58  [ main:80 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-17 18:01:49  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7fbe847c
+2022-03-17 18:01:49  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]

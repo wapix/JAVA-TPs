@@ -1,0 +1,100 @@
+2022-03-18 15:02:54  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:02:54  [ main:105 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:03:43  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:03:43  [ main:84 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:06:43  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d22bbb7
+2022-03-18 15:06:43  [ main:99 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:09:37  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:09:37  [ main:78 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:11:58  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:11:58  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:18:32  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:18:32  [ main:84 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:22:16  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:22:16  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:23:23  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:23:23  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:35:39  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:35:39  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:36:02  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:36:02  [ main:84 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:40:02  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:40:02  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:44:28  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:44:28  [ main:84 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:51:55  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:51:56  [ main:107 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:53:49  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:53:49  [ main:80 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:54:13  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:54:13  [ main:84 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 15:54:47  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7637f22
+2022-03-18 15:54:47  [ main:79 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:02:42  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:02:42  [ main:85 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:11:09  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:11:09  [ main:80 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:12:52  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:12:52  [ main:79 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:13:21  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:13:21  [ main:81 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:14:57  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:14:57  [ main:82 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 16:24:26  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 16:24:26  [ main:86 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 19:41:02  [ main:1 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 19:41:02  [ main:80 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 19:48:08  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 19:48:08  [ main:80 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 19:48:51  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 19:48:51  [ main:79 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 20:01:12  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 20:01:12  [ main:90 ] - [ DEBUG ]  Loaded 3 bean definitions from class path resource [spring.xml]
+2022-03-18 20:10:03  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 20:10:03  [ main:214 ] - [ DEBUG ]  Loaded 13 bean definitions from class path resource [spring.xml]
+2022-03-18 20:10:03  [ main:254 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-03-18 20:10:03  [ main:298 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-03-18 20:10:03  [ main:300 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.transaction.config.internalTransactionalEventListenerFactory'
+2022-03-18 20:10:03  [ main:300 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-03-18 20:10:03  [ main:302 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-03-18 20:10:03  [ main:303 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-03-18 20:10:03  [ main:308 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+2022-03-18 20:10:03  [ main:309 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-03-18 20:10:03  [ main:352 ] - [ DEBUG ]  Creating shared instance of singleton bean 'entityManagerFactory'
+2022-03-18 20:10:03  [ main:382 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [spring.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No persistence unit with name 'unit_person' found
+2022-03-18 20:13:05  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 20:13:05  [ main:167 ] - [ DEBUG ]  Loaded 13 bean definitions from class path resource [spring.xml]
+2022-03-18 20:13:05  [ main:195 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-03-18 20:13:05  [ main:234 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-03-18 20:13:05  [ main:236 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.transaction.config.internalTransactionalEventListenerFactory'
+2022-03-18 20:13:05  [ main:236 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-03-18 20:13:05  [ main:237 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-03-18 20:13:05  [ main:238 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-03-18 20:13:05  [ main:241 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+2022-03-18 20:13:05  [ main:241 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-03-18 20:13:05  [ main:281 ] - [ DEBUG ]  Creating shared instance of singleton bean 'entityManagerFactory'
+2022-03-18 20:13:05  [ main:304 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [spring.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No persistence unit with name 'unit_person' found
+2022-03-18 20:13:53  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 20:13:53  [ main:167 ] - [ DEBUG ]  Loaded 13 bean definitions from class path resource [spring.xml]
+2022-03-18 20:13:53  [ main:195 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-03-18 20:13:53  [ main:231 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-03-18 20:13:53  [ main:233 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.transaction.config.internalTransactionalEventListenerFactory'
+2022-03-18 20:13:53  [ main:233 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-03-18 20:13:53  [ main:235 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-03-18 20:13:53  [ main:236 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-03-18 20:13:53  [ main:239 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+2022-03-18 20:13:53  [ main:239 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-03-18 20:13:53  [ main:278 ] - [ DEBUG ]  Creating shared instance of singleton bean 'entityManagerFactory'
+2022-03-18 20:13:53  [ main:300 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [spring.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No persistence unit with name 'unit_person' found
+2022-03-18 20:14:24  [ main:0 ] - [ DEBUG ]  Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@762efe5d
+2022-03-18 20:14:24  [ main:168 ] - [ DEBUG ]  Loaded 13 bean definitions from class path resource [spring.xml]
+2022-03-18 20:14:25  [ main:196 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-03-18 20:14:25  [ main:233 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-03-18 20:14:25  [ main:235 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.transaction.config.internalTransactionalEventListenerFactory'
+2022-03-18 20:14:25  [ main:235 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-03-18 20:14:25  [ main:236 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-03-18 20:14:25  [ main:237 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-03-18 20:14:25  [ main:240 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+2022-03-18 20:14:25  [ main:241 ] - [ DEBUG ]  Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-03-18 20:14:25  [ main:282 ] - [ DEBUG ]  Creating shared instance of singleton bean 'entityManagerFactory'
+2022-03-18 20:14:25  [ main:305 ] - [ WARN ]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [spring.xml]: Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: No persistence unit with name 'unit_person' found
